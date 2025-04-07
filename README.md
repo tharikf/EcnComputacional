@@ -1,1 +1,1 @@
-# Disciplina de Economia Comportamental
+# Disciplina de Economia Computacional
